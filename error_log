@@ -1,0 +1,5 @@
+[29-Nov-2016 02:29:35 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ivancandido/public_html/consigna/database/migrations/2014_10_12_000000_create_users_table.php on line 28
+[29-Nov-2016 02:29:56 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ivancandido/public_html/consigna/database/migrations/2014_10_12_000000_create_users_table.php on line 28
+[29-Nov-2016 02:30:21 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ivancandido/public_html/consigna/database/migrations/2014_10_12_000000_create_users_table.php on line 28
+[29-Nov-2016 02:30:52 UTC] PHP Fatal error:  Class 'User' not found in /home/ivancandido/public_html/consigna/database/migrations/2014_10_12_000000_create_users_table.php on line 25
+[29-Nov-2016 02:33:38 UTC] PHP Fatal error:  Class 'Users' not found in /home/ivancandido/public_html/consigna/database/migrations/2014_10_12_000000_create_users_table.php on line 25
